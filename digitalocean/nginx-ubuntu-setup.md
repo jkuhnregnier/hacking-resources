@@ -1,7 +1,9 @@
 # Setting up Nginx on an Ubuntu Server
 
+```
 $ sudo apt-get update
 $ sudo apt-get install nginx
+```
 
 $ sudo ufw app list
 
