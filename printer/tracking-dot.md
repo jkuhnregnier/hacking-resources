@@ -8,3 +8,4 @@ If you have both Python 2.7 and Python 3 installed, you might want to call the l
 - https://www.helpnetsecurity.com/2018/06/27/app-masks-printers-tracking-dots/
 - https://dl.acm.org/citation.cfm?doid=3206004.3206019
 - https://github.com/dfd-tud/deda
+- http://www.seeingyellow.com/
