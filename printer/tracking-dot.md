@@ -1,5 +1,7 @@
 # Tracking Dot
 
+Tracking dots are not visible on black & white prints. 
+
 
 *Requires Python3*
 If you have both Python 2.7 and Python 3 installed, you might want to call the library files explicitely in the deda directory via `bin/deda_parse_print.py <scanned-image>`. This helped me fix an issue.
@@ -9,3 +11,4 @@ If you have both Python 2.7 and Python 3 installed, you might want to call the l
 - https://dl.acm.org/citation.cfm?doid=3206004.3206019
 - https://github.com/dfd-tud/deda
 - http://www.seeingyellow.com/
+- A free collection of images with tracking pixels: http://madm.dfki.de/downloads-ds-mic
