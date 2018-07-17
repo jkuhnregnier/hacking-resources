@@ -8,3 +8,4 @@ Chronic diseases are chronic because they are the result of our daily behavior. 
 ## How I overcame it
 - Stuck to the pomodoro technique: 25 minutes of intense work, followed by 5 minutes of pause.
 - Exercised more often - for me swimming worked as a miracle
+- Some stretching and short exercises during the breaks
