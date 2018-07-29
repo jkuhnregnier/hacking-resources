@@ -13,7 +13,7 @@ Here I list the sites I go to to find a laptop and to decide what to buy.
 
 ### Resources
 
-For the moment, I have two resources I can recommend to anyone (more will be added later):
+For the moment, I have three resources I can recommend to anyone (more will be added later):
 
 * https://www.slant.co, here for example with a discussion on the [best laptop for programming](https://www.slant.co/topics/103/~best-laptop-for-programming)
 * https://ifixit.org/, here for example with a discussion [on the MacBook Pro](https://ifixit.org/blog/10305/macbook-pro-2018-teardown/)
