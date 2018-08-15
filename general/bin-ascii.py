@@ -20,9 +20,10 @@ def binaryToChar(binary):
 	return binascii.unhexlify('%x' % bin_int)
 
 
-# https://www.tutorialspoint.com/python/python_conversion_binary_ascii.htm
+# Resources to read more on this topic
+# ------------------------------------
+
 # https://docs.python.org/2/library/binascii.html
 # https://stackoverflow.com/questions/35063732/binary-to-ascii-in-python
 # https://stackoverflow.com/questions/37590412/converting-binary-to-ascii-and-ascii-to-binary
-# https://docs.python.org/3/library/struct.html 
 # https://stackoverflow.com/questions/7396849/convert-binary-to-ascii-and-vice-versa
