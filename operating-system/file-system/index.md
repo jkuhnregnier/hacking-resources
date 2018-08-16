@@ -22,3 +22,4 @@ The byte order mark (BOM) is often essential in helping to decode whether a file
 
 https://stackoverflow.com/questions/13590749/reading-unicode-file-data-with-bom-chars-in-python 
 https://stackoverflow.com/questions/5202648/adding-bom-unicode-signature-while-saving-file-in-python
+
