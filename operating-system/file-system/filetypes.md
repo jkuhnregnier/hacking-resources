@@ -35,3 +35,9 @@ Potentially dangerous file extensions as all of them allow the execution of macr
 .xlsb (bin)
 .xls (bin)
 .xltm
+
+*.csv*
+
+https://github.com/wireservice/csvkit
+https://donatstudios.com/CSV-An-Encoding-Nightmare
+https://stackoverflow.com/questions/37177069/how-to-check-encoding-of-a-csv-file

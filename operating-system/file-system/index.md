@@ -7,13 +7,15 @@
 * `chardetect` - is part of the chardet python package
 
 ### Character Encoding
-Related topics: BOM, 
+Related topics: BOM
 
-*Find out what type of character encoding a file is made of:*
-You can use `chardetect` - is part of the chardet python package
-or the chardet Python project. https://github.com/chardet/chardet
+#### What character encoding is a file made of?
+It's impossible to know, except if the file itself contains this information. This is typically the case for XML, HTML, Excel and other files. But files such as .txt or .csv contain no such information, if they don't contain a byte order mark (BOM). The way programs know which encoding is used, is by analyzing the file and the characters within them. They then return a guess based on the specific characteristics made by different encoding systems. 
 
-The `file <encoded-text-file>` command is not as precise as chardet/chardetect.
+You can use `chardetect`, which is part of the chardet python package, to guess which character encoding a file contains.
+https://github.com/chardet/chardet
+
+Another alternative is the file command: `file <encoded-text-file>`, though, sometimes it is not as precise as chardet/chardetect.
 
 https://www-archive.mozilla.org/projects/intl/UniversalCharsetDetection.html
 
